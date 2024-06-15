@@ -16,7 +16,7 @@ schulze = "0.1"
 jinja2 = "3.1.4"
 
 [tool.poetry.group.dev.dependencies]
-ruff = "0.4.8"
+ruff = "0.4.9"
 pyright = "1.1.367"
 black = "24.4.2"
 
