@@ -17,7 +17,7 @@ jinja2 = "3.1.4"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "0.5.1"
-pyright = "1.1.370"
+pyright = "1.1.371"
 black = "24.4.2"
 
 [build-system]
